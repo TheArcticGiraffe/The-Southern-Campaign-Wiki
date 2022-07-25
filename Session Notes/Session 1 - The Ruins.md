@@ -4,7 +4,7 @@ the starting quest is from Verica Tomic, one of the Fangs of the Jackals, a gang
 
 12th of Lent in 621, start in the town of Dolgovat.
 
-A set of adventurers, who have3 each gotten a mission today. They have accepted a quest to seek out a magical relic within a set of ancient ruins. this quest, granted by [[Verica Tomic]], slightly less than legal, but we will keep our noses clean.
+A set of adventurers, who have each gotten a mission today. They have accepted a quest to seek out a magical relic within a set of ancient ruins. this quest, granted by [[Verica Tomic]], slightly less than legal, but we will keep our noses clean.
 
 Each of our characters will make their way towards the ruins.
 
