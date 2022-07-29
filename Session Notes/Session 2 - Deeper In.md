@@ -34,7 +34,7 @@ As we are leaving, Verica mentions that someone came by looking for Aleks, weari
 
 Outside, Aleks hears someone call his name, and is greeted by his friend [[Markus]]. They catch up, detailing how they seperately made it here. THe party decides to go for dinner and a drink to celebrate their earnings, and Aethla takes them to [[the academic tavern and inn near the school]].
 
-While drinking a barrel of mead purchased by Aleks and dining on roasted chicken and vegetables, Markus details how he came from a small town called [[Zdolinia]], where he was given a place to stay with a woman named [[Nelia Tataru]] in exchange for favours. He also explains that he heard [[TK Mutual Friend]], a mutual friend of his and Aleks', was somewhere around [[Zdolinia]], and that there was also [[The Cult|cult activity]] happening in [[Zdolinia]]. 
+While drinking a barrel of mead purchased by Aleks and dining on roasted chicken and vegetables, Markus details how he came from a small town called [[Zdolinia]], where he was given a place to stay with a woman named [[Nelia Tataru]] in exchange for favours. He also explains that he heard [[Leena]], a mutual friend of his and Aleks', was somewhere around [[Zdolinia]], and that there was also [[The Cult|cult activity]] happening in [[Zdolinia]]. 
 
 On Aleks' suggestion, the party decides to stay together and travel the day's walk to [[Zdolinia]] in the hopes to find more work. 
 
@@ -50,7 +50,7 @@ Markus guides them through town, leading them to [[Nelia Tataru|Nelia's]] house.
 
 In the morning, they go through the house filled with active children, and find Nelia, who asks them to go to the chapel and fetch her some (TK offerings/tithings) from the priest there. 
 
-Markus leaves in order to reach out about [[TK Mutual Friend]] and other possible gigs. The rest of the party heads to the chapel in the center of town to the [[Zdolnia Chapel]].
+Markus leaves in order to reach out about [[Leena]] and other possible gigs. The rest of the party heads to the chapel in the center of town to the [[The Temple of the Gilded Edge|the Temple of the Gilded Edge]].
 
 The party enter's during a service, and waits at the back of the chapel until it ends. Aethla leads, approaching the priest, and requesting the (TK offering), which the priest brings out and details it's instructions of use.
 

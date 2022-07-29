@@ -2,7 +2,7 @@ the starting quest is from Verica Tomic, one of the Fangs of the Jackals, a gang
 
 
 
-12th of Lent in 621, start in the town of Dolgovat.
+### 12th of Lent, Year 621, [[After King Era]]
 
 A set of adventurers, who have each gotten a mission today. They have accepted a quest to seek out a magical relic within a set of ancient ruins. this quest, granted by [[Verica Tomic]], slightly less than legal, but we will keep our noses clean.
 
@@ -28,7 +28,7 @@ Ruins have been explored, but not much found. The ruins have been long ransacked
 
 Altar is similar to others, used to have a statue, animal or deity. Statue has seen better days
 
-![[Pasted image 20220707183038.png]]
+![[Initial Ruin - Lobby.png]]
 
 Sounds is coming from the eastern wall.
 
@@ -64,40 +64,41 @@ Fairly ampty room, still dripping noise, but no sign of it, not much,
 
 As Aleks goes to 
 
-![[Pasted image 20220707185654.png]]
+![[Initial Ruin - Ooze Room.png]]
 
 Cube begins combat.
 
-- ROUND 1
-	- Orion
-		- Attempts to understand the cube, and then casts enlarge on Aleks
-	- Grey Ooze
-		- Oozes out of the wall .
-	- Aethla
-		- Got warnings, like to settle into dungeons, feed off of living things, but not much of living 
-		- Casts Bane on the creatures, and gives Bardic inspiration to Kohl.
-	- Shield
-		- Draws her rapiers and runs up the hallway.
-	- Aleksander
-		- Takes a swing out with his short sword, and then digs in deeper with his maneuvers
-	- Gelatinous Cube
-		- Lookiong liquidier, and approaches Aleks. It attempst to engulf Aleks, but doesnt manage to engulf it.
-	- Khol
-		- Drops torch, draws glaive, and digs into the creature.
-- ROUND 2
-	- Orion
-		- Casts mind sliver against the cube, 
-	- Gray ooze
-		- Lashes out at 
-	- Aethla
-		- Casts Vicious mockery
-	- Shield
-		- Shield asks KOhl if he has the ooze handled, and then goes to aid Aleks
-	- Aleksander
-		- Nods at Shield, and then attacks the ooze, and taking the advnatage of the creature being near dead, attacks the cube again and kills it, and then moves to flank the ooze with Kohl.
-	- Khol
-		- Attacks ooze, which is looking rough.
-- ROUND 3
+- ROLL FOR INITIATIVE
+	- ROUND 1
+		- Orion
+			- Attempts to understand the cube, and then casts enlarge on Aleks
+		- Grey Ooze
+			- Oozes out of the wall .
+		- Aethla
+			- Got warnings, like to settle into dungeons, feed off of living things, but not much of living 
+			- Casts Bane on the creatures, and gives Bardic inspiration to Kohl.
+		- Shield
+			- Draws her rapiers and runs up the hallway.
+		- Aleksander
+			- Takes a swing out with his short sword, and then digs in deeper with his maneuvers
+		- Gelatinous Cube
+			- Lookiong liquidier, and approaches Aleks. It attempst to engulf Aleks, but doesnt manage to engulf it.
+		- Khol
+			- Drops torch, draws glaive, and digs into the creature.
+	- ROUND 2
+		- Orion
+			- Casts mind sliver against the cube, 
+		- Gray ooze
+			- Lashes out at 
+		- Aethla
+			- Casts Vicious mockery
+		- Shield
+			- Shield asks KOhl if he has the ooze handled, and then goes to aid Aleks
+		- Aleksander
+			- Nods at Shield, and then attacks the ooze, and taking the advnatage of the creature being near dead, attacks the cube again and kills it, and then moves to flank the ooze with Kohl.
+		- Khol
+			- Attacks ooze, which is looking rough.
+	- ROUND 3
 	- Orion
 		- Casts Mind sliver against the ooze, as a sliver of light appears inside it, reducing the ooze to liquid.
 	- Aethla
@@ -114,7 +115,7 @@ Room has been slightly looted. Tables broken by the slime, the key, not much els
 Aleks looks at the key. The key is very roughly made. The ancient elves didn't have much in the way of metal making, used ironwood, have to roast it and shape it as you roast it.
 
 
-![[Pasted image 20220707193310.png]]
+![[Initial Ruin - Branching Room.png]]
 
 
 
@@ -141,11 +142,11 @@ Up ahead, we find a locker room.
 
 Benches, weapon racks with a few weapons. Made of the same wood, and a couple of weapons: halberd, longsword, two daggers. There is also another alter with a statue of a bear. Takes another sketch
 
-![[Pasted image 20220707194839.png]]
+![[Initial Ruin - Fighting Pit.png]]
 
 Check out the alter. Nothing under the rug, statue of a lioness, broken ironwood blades at it's feet.
 
-![[Pasted image 20220707195858.png]]
+![[Initial Ruin - Changing Rooms.png]]
 
 Aleks doesn't find much, the blades were broken through use.
 
@@ -153,7 +154,7 @@ Shield doesn't recognize the symbols, heard legends about it, this looks to be m
 
 Go backwards, and find another statue of a cat.
 
-![[Pasted image 20220707201220.png]]
+![[Initial Ruin - Cat Statue.png]]
 
 Throuhg a narrow hallway, find another statue of a cat. On the far alter are a couple of gems. Only two. about 15GP each
 
@@ -208,7 +209,7 @@ As it sees the light and Aleks, it begins to chitter and make the scratching noi
 
 Spider room: 
 
-![[Pasted image 20220707205417.png]]
+![[Initial Ruin - Spider Room.png]]
 
 
 Find some bones, skeletons. There is a stone tablet and a key webbed into the mouth of one of the skulls.
