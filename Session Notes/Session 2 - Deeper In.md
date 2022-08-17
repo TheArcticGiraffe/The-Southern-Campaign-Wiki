@@ -14,7 +14,7 @@ Aleks bet's one silver that there is another door behind the second one, fails a
   
 Inside, find a display case, smashed in glass. Inside is a small silver ring on a blue cushion. After a brief discussion of whether we should have one outside in case the doors swing shut, Aleks takes it. 
 
-Orion casts "Comprehend Languages" in order to read an inscription on the ring, learns that it say "Ghost Burn"
+Orion casts "Comprehend Languages" in order to read an inscription on the ring, learns that it says "Ghost Burn"
 
 TK Ask Shashank what language the ring inscription was written in.
 

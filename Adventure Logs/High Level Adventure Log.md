@@ -18,7 +18,7 @@
 - Run into Markus, an old friend of Aleks'. We have dinner, and then decide to head to [[Zdolinia]] in the morning for the possibility of more jobs and finding another friend.
 ### 13th of Lent, Year 621, After King Era
 - Make our way to Zdolnia, arriving by nightfall. 
-- Meet up with Nelia who gives us a place to stay.
+- Meet up with [[Nelia Tataru]] who gives us a place to stay.
 
 ### 14th of Lent, Year 621, After King Era
 - Go to the [[The Temple of the Gilded Edge|the Temple of the Gilded Edge]] to get sacrament for Nelia.
