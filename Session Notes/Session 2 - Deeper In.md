@@ -56,5 +56,5 @@ The party enter's during a service, and waits at the back of the chapel until it
 
 Shield notices [[Cult Pew Carving|a symbol carved into the back of one of the pews]]. It is the symbol associated with the cult said to be active in town, and has the name [[Stephen]] carved underneath it.
 
-Aethla and Shield both realize that one of the [[Academic Person from Dolgovat|members of the parish]] was in the [[the academic tavern and inn near the school]] in Dolgovat two days ago, when they were celebrating their reward.
+Aethla and Shield both realize that one of the [[George|members of the parish]] was in the [[the academic tavern and inn near the school]] in Dolgovat two days ago, when they were celebrating their reward.
 

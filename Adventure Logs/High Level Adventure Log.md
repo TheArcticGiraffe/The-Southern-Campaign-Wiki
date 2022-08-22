@@ -24,3 +24,7 @@
 - Go to the [[The Temple of the Gilded Edge|the Temple of the Gilded Edge]] to get sacrament for Nelia.
 - Notice a cultist carving on the back of a pew with the name Stephen
 - Notice that one of the people at the service was at the bar two nights ago.
+
+![[HLAL Session 3]]
+
+![[HLAL Session 4]]
