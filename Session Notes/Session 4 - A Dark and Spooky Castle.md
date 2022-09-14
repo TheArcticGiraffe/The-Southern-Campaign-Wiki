@@ -100,9 +100,6 @@ With love,
 
 Osmund"
 
-TK Investigate some of the ghostly fluid, try to find some more.
-TK Make a item for the letter from her fatehr.
-
 ![[Pasted image 20220818194931.png]] 
 Sigil from the letter.
 
@@ -193,7 +190,7 @@ ENTER COMBAT
 		- Kohl
 
 
-Aethlauses a vial to "scoop"  up the blue liquid.
+Aethla uses a vial to "scoop"  up the blue liquid.
 
 Everyone is safe.
 
@@ -203,10 +200,6 @@ What was the creature?
 
 Aethla and Aleks go to the piano. Strings intact, would be very out of tune.
 Aleks.
-
-
-- [ ] Fix the piano
-- [ ] Investigate the blue liquid.
 
 
 ![[Pasted image 20220818203507.png]]
